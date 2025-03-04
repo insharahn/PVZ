@@ -2,9 +2,9 @@
 A recreation of Plants vs. Zombies (PopCap Games) built using C++ and SFML.
 
 ## Description
-Using object-oriented programming concepts, our version of Plants vs. Zombies features a game where you have to fight off hordes of zombies by using plants.
-It uses SFML version 2.6.1.
+Using object-oriented programming concepts, our version of Plants vs. Zombies features a game where you have to fight off hordes of zombies by using plants. It has 6 levels with various types of plants, zombies, and maps. 
 
+(SFML version 2.6.1 was used.)
 
 <img width="400" alt="loading" src="https://github.com/user-attachments/assets/16f75af0-7f2f-4c42-a576-61d63c516904" />
 
